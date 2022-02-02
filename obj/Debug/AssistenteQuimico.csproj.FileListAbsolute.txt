@@ -1,0 +1,88 @@
+C:\Users\Victor\Google Drive (climatizabahia@gmail.com)\Projetos Visual Studio\Projetos\WindowsFormsApp12\bin\Debug\AssistenteQuimico.exe.config
+C:\Users\Victor\Google Drive (climatizabahia@gmail.com)\Projetos Visual Studio\Projetos\WindowsFormsApp12\bin\Debug\AssistenteQuimico.exe.manifest
+C:\Users\Victor\Google Drive (climatizabahia@gmail.com)\Projetos Visual Studio\Projetos\WindowsFormsApp12\bin\Debug\AssistenteQuimico.application
+C:\Users\Victor\Google Drive (climatizabahia@gmail.com)\Projetos Visual Studio\Projetos\WindowsFormsApp12\bin\Debug\AssistenteQuimico.exe
+C:\Users\Victor\Google Drive (climatizabahia@gmail.com)\Projetos Visual Studio\Projetos\WindowsFormsApp12\bin\Debug\AssistenteQuimico.pdb
+C:\Users\Victor\Google Drive (climatizabahia@gmail.com)\Projetos Visual Studio\Projetos\WindowsFormsApp12\bin\Debug\EntityFramework.dll
+C:\Users\Victor\Google Drive (climatizabahia@gmail.com)\Projetos Visual Studio\Projetos\WindowsFormsApp12\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Victor\Google Drive (climatizabahia@gmail.com)\Projetos Visual Studio\Projetos\WindowsFormsApp12\bin\Debug\System.Data.SQLite.dll
+C:\Users\Victor\Google Drive (climatizabahia@gmail.com)\Projetos Visual Studio\Projetos\WindowsFormsApp12\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Victor\Google Drive (climatizabahia@gmail.com)\Projetos Visual Studio\Projetos\WindowsFormsApp12\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Victor\Google Drive (climatizabahia@gmail.com)\Projetos Visual Studio\Projetos\WindowsFormsApp12\bin\Debug\EntityFramework.xml
+C:\Users\Victor\Google Drive (climatizabahia@gmail.com)\Projetos Visual Studio\Projetos\WindowsFormsApp12\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Victor\Google Drive (climatizabahia@gmail.com)\Projetos Visual Studio\Projetos\WindowsFormsApp12\bin\Debug\System.Data.SQLite.xml
+C:\Users\Victor\Google Drive (climatizabahia@gmail.com)\Projetos Visual Studio\Projetos\WindowsFormsApp12\obj\Debug\WindowsFormsApp12.BuscarElemento.resources
+C:\Users\Victor\Google Drive (climatizabahia@gmail.com)\Projetos Visual Studio\Projetos\WindowsFormsApp12\obj\Debug\WindowsFormsApp12.MenuPrincipal.resources
+C:\Users\Victor\Google Drive (climatizabahia@gmail.com)\Projetos Visual Studio\Projetos\WindowsFormsApp12\obj\Debug\AssistenteQuimico.Properties.Resources.resources
+C:\Users\Victor\Google Drive (climatizabahia@gmail.com)\Projetos Visual Studio\Projetos\WindowsFormsApp12\obj\Debug\WindowsFormsApp12.TabelaPeriodica.resources
+C:\Users\Victor\Google Drive (climatizabahia@gmail.com)\Projetos Visual Studio\Projetos\WindowsFormsApp12\obj\Debug\AssistenteQuimico.csproj.GenerateResource.cache
+C:\Users\Victor\Google Drive (climatizabahia@gmail.com)\Projetos Visual Studio\Projetos\WindowsFormsApp12\obj\Debug\AssistenteQuimico.csproj.CoreCompileInputs.cache
+C:\Users\Victor\Google Drive (climatizabahia@gmail.com)\Projetos Visual Studio\Projetos\WindowsFormsApp12\obj\Debug\AssistenteQuimico.TrustInfo.xml
+C:\Users\Victor\Google Drive (climatizabahia@gmail.com)\Projetos Visual Studio\Projetos\WindowsFormsApp12\obj\Debug\AssistenteQuimico.exe.manifest
+C:\Users\Victor\Google Drive (climatizabahia@gmail.com)\Projetos Visual Studio\Projetos\WindowsFormsApp12\obj\Debug\AssistenteQuimico.application
+C:\Users\Victor\Google Drive (climatizabahia@gmail.com)\Projetos Visual Studio\Projetos\WindowsFormsApp12\obj\Debug\AssistenteQuimico.csproj.CopyComplete
+C:\Users\Victor\Google Drive (climatizabahia@gmail.com)\Projetos Visual Studio\Projetos\WindowsFormsApp12\obj\Debug\AssistenteQuimico.exe
+C:\Users\Victor\Google Drive (climatizabahia@gmail.com)\Projetos Visual Studio\Projetos\WindowsFormsApp12\obj\Debug\AssistenteQuimico.pdb
+C:\Users\Victor\Google Drive (climatizabahia@gmail.com)\Projetos Visual Studio\Projetos\WindowsFormsApp12\obj\Debug\AssistenteQuimico.csprojAssemblyReference.cache
+C:\Users\Pichau\Google Drive\Projetos Visual Studio\Projetos\WindowsFormsApp12\obj\Debug\AssistenteQuimico.csprojAssemblyReference.cache
+C:\Users\Pichau\Google Drive\Projetos Visual Studio\Projetos\WindowsFormsApp12\obj\Debug\WindowsFormsApp12.BuscarElemento.resources
+C:\Users\Pichau\Google Drive\Projetos Visual Studio\Projetos\WindowsFormsApp12\obj\Debug\WindowsFormsApp12.MenuPrincipal.resources
+C:\Users\Pichau\Google Drive\Projetos Visual Studio\Projetos\WindowsFormsApp12\obj\Debug\AssistenteQuimico.Properties.Resources.resources
+C:\Users\Pichau\Google Drive\Projetos Visual Studio\Projetos\WindowsFormsApp12\obj\Debug\WindowsFormsApp12.TabelaPeriodica.resources
+C:\Users\Pichau\Google Drive\Projetos Visual Studio\Projetos\WindowsFormsApp12\obj\Debug\AssistenteQuimico.csproj.GenerateResource.cache
+C:\Users\Pichau\Google Drive\Projetos Visual Studio\Projetos\WindowsFormsApp12\obj\Debug\AssistenteQuimico.exe
+C:\Users\Pichau\Google Drive\Projetos Visual Studio\Projetos\WindowsFormsApp12\obj\Debug\AssistenteQuimico.pdb
+D:\Projetos Visual Studio\Projetos\WindowsFormsApp12\bin\Debug\AssistenteQuimico.exe.config
+D:\Projetos Visual Studio\Projetos\WindowsFormsApp12\bin\Debug\AssistenteQuimico.exe.manifest
+D:\Projetos Visual Studio\Projetos\WindowsFormsApp12\bin\Debug\AssistenteQuimico.application
+D:\Projetos Visual Studio\Projetos\WindowsFormsApp12\bin\Debug\AssistenteQuimico.exe
+D:\Projetos Visual Studio\Projetos\WindowsFormsApp12\bin\Debug\AssistenteQuimico.pdb
+D:\Projetos Visual Studio\Projetos\WindowsFormsApp12\bin\Debug\EntityFramework.dll
+D:\Projetos Visual Studio\Projetos\WindowsFormsApp12\bin\Debug\EntityFramework.SqlServer.dll
+D:\Projetos Visual Studio\Projetos\WindowsFormsApp12\bin\Debug\System.Data.SQLite.dll
+D:\Projetos Visual Studio\Projetos\WindowsFormsApp12\bin\Debug\System.Data.SQLite.EF6.dll
+D:\Projetos Visual Studio\Projetos\WindowsFormsApp12\bin\Debug\System.Data.SQLite.Linq.dll
+D:\Projetos Visual Studio\Projetos\WindowsFormsApp12\bin\Debug\EntityFramework.xml
+D:\Projetos Visual Studio\Projetos\WindowsFormsApp12\bin\Debug\EntityFramework.SqlServer.xml
+D:\Projetos Visual Studio\Projetos\WindowsFormsApp12\bin\Debug\System.Data.SQLite.xml
+D:\Projetos Visual Studio\Projetos\WindowsFormsApp12\obj\Debug\AssistenteQuimico.csprojAssemblyReference.cache
+D:\Projetos Visual Studio\Projetos\WindowsFormsApp12\obj\Debug\WindowsFormsApp12.BuscarElemento.resources
+D:\Projetos Visual Studio\Projetos\WindowsFormsApp12\obj\Debug\WindowsFormsApp12.MenuPrincipal.resources
+D:\Projetos Visual Studio\Projetos\WindowsFormsApp12\obj\Debug\AssistenteQuimico.Properties.Resources.resources
+D:\Projetos Visual Studio\Projetos\WindowsFormsApp12\obj\Debug\WindowsFormsApp12.TabelaPeriodica.resources
+D:\Projetos Visual Studio\Projetos\WindowsFormsApp12\obj\Debug\AssistenteQuimico.csproj.GenerateResource.cache
+D:\Projetos Visual Studio\Projetos\WindowsFormsApp12\obj\Debug\AssistenteQuimico.csproj.CoreCompileInputs.cache
+D:\Projetos Visual Studio\Projetos\WindowsFormsApp12\obj\Debug\AssistenteQuimico.TrustInfo.xml
+D:\Projetos Visual Studio\Projetos\WindowsFormsApp12\obj\Debug\AssistenteQuimico.exe.manifest
+D:\Projetos Visual Studio\Projetos\WindowsFormsApp12\obj\Debug\AssistenteQuimico.application
+D:\Projetos Visual Studio\Projetos\WindowsFormsApp12\obj\Debug\AssistenteQuimico.csproj.CopyComplete
+D:\Projetos Visual Studio\Projetos\WindowsFormsApp12\obj\Debug\AssistenteQuimico.exe
+D:\Projetos Visual Studio\Projetos\WindowsFormsApp12\obj\Debug\AssistenteQuimico.pdb
+D:\Projetos Visual Studio\Projetos\WindowsFormsApp12\obj\Debug\AssistenteQuimico.csproj.AssemblyReference.cache
+D:\Meus Projetos\Projetos Visual Studio\Projetos\WindowsFormsApp12\obj\Debug\AssistenteQuimico.csproj.AssemblyReference.cache
+D:\Meus Projetos\Projetos Visual Studio\Projetos\WindowsFormsApp12\obj\Debug\AssistenteQuimico.csproj.SuggestedBindingRedirects.cache
+D:\Meus Projetos\Projetos Visual Studio\Projetos\WindowsFormsApp12\obj\Debug\WindowsFormsApp12.BuscarElemento.resources
+D:\Meus Projetos\Projetos Visual Studio\Projetos\WindowsFormsApp12\obj\Debug\WindowsFormsApp12.MenuPrincipal.resources
+D:\Meus Projetos\Projetos Visual Studio\Projetos\WindowsFormsApp12\obj\Debug\AssistenteQuimico.Properties.Resources.resources
+D:\Meus Projetos\Projetos Visual Studio\Projetos\WindowsFormsApp12\obj\Debug\WindowsFormsApp12.TabelaPeriodica.resources
+D:\Meus Projetos\Projetos Visual Studio\Projetos\WindowsFormsApp12\obj\Debug\AssistenteQuimico.csproj.GenerateResource.cache
+D:\Meus Projetos\Projetos Visual Studio\Projetos\WindowsFormsApp12\obj\Debug\AssistenteQuimico.exe
+D:\Meus Projetos\Projetos Visual Studio\Projetos\WindowsFormsApp12\obj\Debug\AssistenteQuimico.pdb
+D:\Meus Projetos\Projetos Visual Studio\Projetos\WindowsFormsApp12\obj\Debug\AssistenteQuimico.csproj.CoreCompileInputs.cache
+D:\Meus Projetos\Projetos Visual Studio\Projetos\WindowsFormsApp12\bin\Debug\AssistenteQuimico.exe.config
+D:\Meus Projetos\Projetos Visual Studio\Projetos\WindowsFormsApp12\bin\Debug\AssistenteQuimico.exe.manifest
+D:\Meus Projetos\Projetos Visual Studio\Projetos\WindowsFormsApp12\bin\Debug\AssistenteQuimico.application
+D:\Meus Projetos\Projetos Visual Studio\Projetos\WindowsFormsApp12\bin\Debug\AssistenteQuimico.exe
+D:\Meus Projetos\Projetos Visual Studio\Projetos\WindowsFormsApp12\bin\Debug\AssistenteQuimico.pdb
+D:\Meus Projetos\Projetos Visual Studio\Projetos\WindowsFormsApp12\bin\Debug\EntityFramework.dll
+D:\Meus Projetos\Projetos Visual Studio\Projetos\WindowsFormsApp12\bin\Debug\EntityFramework.SqlServer.dll
+D:\Meus Projetos\Projetos Visual Studio\Projetos\WindowsFormsApp12\bin\Debug\System.Data.SQLite.dll
+D:\Meus Projetos\Projetos Visual Studio\Projetos\WindowsFormsApp12\bin\Debug\System.Data.SQLite.EF6.dll
+D:\Meus Projetos\Projetos Visual Studio\Projetos\WindowsFormsApp12\bin\Debug\System.Data.SQLite.Linq.dll
+D:\Meus Projetos\Projetos Visual Studio\Projetos\WindowsFormsApp12\bin\Debug\EntityFramework.xml
+D:\Meus Projetos\Projetos Visual Studio\Projetos\WindowsFormsApp12\bin\Debug\EntityFramework.SqlServer.xml
+D:\Meus Projetos\Projetos Visual Studio\Projetos\WindowsFormsApp12\bin\Debug\System.Data.SQLite.xml
+D:\Meus Projetos\Projetos Visual Studio\Projetos\WindowsFormsApp12\obj\Debug\AssistenteQuimico.TrustInfo.xml
+D:\Meus Projetos\Projetos Visual Studio\Projetos\WindowsFormsApp12\obj\Debug\AssistenteQuimico.exe.manifest
+D:\Meus Projetos\Projetos Visual Studio\Projetos\WindowsFormsApp12\obj\Debug\AssistenteQuimico.application
+D:\Meus Projetos\Projetos Visual Studio\Projetos\WindowsFormsApp12\obj\Debug\AssistenteQuimico.csproj.CopyComplete

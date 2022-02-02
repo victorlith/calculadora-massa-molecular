@@ -1,0 +1,40 @@
+C:\Users\Pichau\Google Drive\Projetos Visual Studio\Projetos\WindowsFormsApp12\obj\Debug\WindowsFormsApp12.csprojAssemblyReference.cache
+C:\Users\Pichau\Google Drive\Projetos Visual Studio\Projetos\WindowsFormsApp12\obj\Debug\WindowsFormsApp12.Properties.Resources.resources
+C:\Users\Pichau\Google Drive\Projetos Visual Studio\Projetos\WindowsFormsApp12\obj\Debug\WindowsFormsApp12.csproj.GenerateResource.cache
+C:\Users\Pichau\Google Drive\Projetos Visual Studio\Projetos\WindowsFormsApp12\obj\Debug\WindowsFormsApp12.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Google Drive\Projetos Visual Studio\Projetos\WindowsFormsApp12\bin\Debug\WindowsFormsApp12.exe.config
+C:\Users\Pichau\Google Drive\Projetos Visual Studio\Projetos\WindowsFormsApp12\bin\Debug\WindowsFormsApp12.exe
+C:\Users\Pichau\Google Drive\Projetos Visual Studio\Projetos\WindowsFormsApp12\bin\Debug\WindowsFormsApp12.pdb
+C:\Users\Pichau\Google Drive\Projetos Visual Studio\Projetos\WindowsFormsApp12\bin\Debug\EntityFramework.dll
+C:\Users\Pichau\Google Drive\Projetos Visual Studio\Projetos\WindowsFormsApp12\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Pichau\Google Drive\Projetos Visual Studio\Projetos\WindowsFormsApp12\bin\Debug\System.Data.SQLite.dll
+C:\Users\Pichau\Google Drive\Projetos Visual Studio\Projetos\WindowsFormsApp12\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Pichau\Google Drive\Projetos Visual Studio\Projetos\WindowsFormsApp12\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Pichau\Google Drive\Projetos Visual Studio\Projetos\WindowsFormsApp12\bin\Debug\EntityFramework.xml
+C:\Users\Pichau\Google Drive\Projetos Visual Studio\Projetos\WindowsFormsApp12\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Pichau\Google Drive\Projetos Visual Studio\Projetos\WindowsFormsApp12\bin\Debug\System.Data.SQLite.xml
+C:\Users\Pichau\Google Drive\Projetos Visual Studio\Projetos\WindowsFormsApp12\obj\Debug\WindowsFormsApp12.csproj.CopyComplete
+C:\Users\Pichau\Google Drive\Projetos Visual Studio\Projetos\WindowsFormsApp12\obj\Debug\WindowsFormsApp12.exe
+C:\Users\Pichau\Google Drive\Projetos Visual Studio\Projetos\WindowsFormsApp12\obj\Debug\WindowsFormsApp12.pdb
+C:\Users\Pichau\Google Drive\Projetos Visual Studio\Projetos\WindowsFormsApp12\obj\Debug\WindowsFormsApp12.TabelaPeriodica.resources
+C:\Users\Pichau\Google Drive\Projetos Visual Studio\Projetos\WindowsFormsApp12\obj\Debug\WindowsFormsApp12.MenuPrincipal.resources
+C:\Users\Victor\Google Drive (climatizabahia@gmail.com)\Projetos Visual Studio\Projetos\WindowsFormsApp12\bin\Debug\WindowsFormsApp12.exe.config
+C:\Users\Victor\Google Drive (climatizabahia@gmail.com)\Projetos Visual Studio\Projetos\WindowsFormsApp12\bin\Debug\WindowsFormsApp12.exe
+C:\Users\Victor\Google Drive (climatizabahia@gmail.com)\Projetos Visual Studio\Projetos\WindowsFormsApp12\bin\Debug\WindowsFormsApp12.pdb
+C:\Users\Victor\Google Drive (climatizabahia@gmail.com)\Projetos Visual Studio\Projetos\WindowsFormsApp12\bin\Debug\EntityFramework.dll
+C:\Users\Victor\Google Drive (climatizabahia@gmail.com)\Projetos Visual Studio\Projetos\WindowsFormsApp12\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Victor\Google Drive (climatizabahia@gmail.com)\Projetos Visual Studio\Projetos\WindowsFormsApp12\bin\Debug\System.Data.SQLite.dll
+C:\Users\Victor\Google Drive (climatizabahia@gmail.com)\Projetos Visual Studio\Projetos\WindowsFormsApp12\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Victor\Google Drive (climatizabahia@gmail.com)\Projetos Visual Studio\Projetos\WindowsFormsApp12\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Victor\Google Drive (climatizabahia@gmail.com)\Projetos Visual Studio\Projetos\WindowsFormsApp12\bin\Debug\EntityFramework.xml
+C:\Users\Victor\Google Drive (climatizabahia@gmail.com)\Projetos Visual Studio\Projetos\WindowsFormsApp12\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Victor\Google Drive (climatizabahia@gmail.com)\Projetos Visual Studio\Projetos\WindowsFormsApp12\bin\Debug\System.Data.SQLite.xml
+C:\Users\Victor\Google Drive (climatizabahia@gmail.com)\Projetos Visual Studio\Projetos\WindowsFormsApp12\obj\Debug\WindowsFormsApp12.BuscarElemento.resources
+C:\Users\Victor\Google Drive (climatizabahia@gmail.com)\Projetos Visual Studio\Projetos\WindowsFormsApp12\obj\Debug\WindowsFormsApp12.MenuPrincipal.resources
+C:\Users\Victor\Google Drive (climatizabahia@gmail.com)\Projetos Visual Studio\Projetos\WindowsFormsApp12\obj\Debug\WindowsFormsApp12.Properties.Resources.resources
+C:\Users\Victor\Google Drive (climatizabahia@gmail.com)\Projetos Visual Studio\Projetos\WindowsFormsApp12\obj\Debug\WindowsFormsApp12.TabelaPeriodica.resources
+C:\Users\Victor\Google Drive (climatizabahia@gmail.com)\Projetos Visual Studio\Projetos\WindowsFormsApp12\obj\Debug\WindowsFormsApp12.csproj.GenerateResource.cache
+C:\Users\Victor\Google Drive (climatizabahia@gmail.com)\Projetos Visual Studio\Projetos\WindowsFormsApp12\obj\Debug\WindowsFormsApp12.csproj.CoreCompileInputs.cache
+C:\Users\Victor\Google Drive (climatizabahia@gmail.com)\Projetos Visual Studio\Projetos\WindowsFormsApp12\obj\Debug\WindowsFormsApp12.csproj.CopyComplete
+C:\Users\Victor\Google Drive (climatizabahia@gmail.com)\Projetos Visual Studio\Projetos\WindowsFormsApp12\obj\Debug\WindowsFormsApp12.exe
+C:\Users\Victor\Google Drive (climatizabahia@gmail.com)\Projetos Visual Studio\Projetos\WindowsFormsApp12\obj\Debug\WindowsFormsApp12.pdb
